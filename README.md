@@ -1,6 +1,6 @@
 # README #
 
-Algorithm home task. Finding longest simple path in graphs, using Gradient Descent and Metropolis.
+Algorithm home task. Finding the longest simple path in graphs, using Gradient Descent and Metropolis.
 
 ### Consist of: ###
 
