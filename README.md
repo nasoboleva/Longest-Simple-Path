@@ -13,4 +13,4 @@ Algorithm home task. Finding the longest simple path in graphs, using Gradient D
 * Class LongestSimplePath
 * Method (class) Gradient Descent
 * Method (class) Metropolis (with and without annealing)
-* TrySolve function -- standard solver
+* TrySolve function - standard solver
